@@ -13,7 +13,8 @@ module tt_um_jorgenkraghjakobsen_quantum_number (
     input  wire       clk,      // clock
     input  wire       rst_n     // reset_n - low to reset
 );
-  reg [7:0] q_random; 
+  
+    reg [7:0] q_random; 
     always @(posedge clk) 
     q_random = q_random + 8'b00000001;
   // All output pins must be assigned. If not used, assign to 0.
