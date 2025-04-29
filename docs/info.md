@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Uses quantum mechanics to generate a random number
 
 ## How to test
 
-Explain how to use your project
+Apply power, if no smoke it works
 
 ## External hardware
 
